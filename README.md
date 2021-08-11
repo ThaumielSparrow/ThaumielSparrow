@@ -4,7 +4,7 @@ I am the leader of former Team Sparrow, which was absorbed into the Nightingale 
 
 Most of my projects are in the `team-sparrow` organization repository, but the large majority of the contents of the org are now private.
 
-<p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LordZagreus&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues,contribs)
+
 :snake:
-<img src=https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg>
-</p>
+![Snake](https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg)
