@@ -8,4 +8,9 @@ If you are on CCS teams Virtue or Thaumiel, you can send an access request via e
 ![GitHub stats](https://github-readme-stats-8klft682t-lordzagreus.vercel.app/api?username=ThaumielSparrow&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues,contribs)
 
 :snake:
-![Snake](https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/LordZagreus/LordZagreus/blob/output/github-contribution-grid-snake.svg" />
+</picture>
